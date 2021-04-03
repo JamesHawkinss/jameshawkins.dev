@@ -67,7 +67,7 @@ p {
     font-weight: bold;
 }
 
-.link a::hover {
+.link a:hover {
     color: #3767CE;
 }
 
