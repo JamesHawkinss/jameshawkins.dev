@@ -67,6 +67,10 @@ p {
     font-weight: bold;
 }
 
+.link a::hover {
+    color: #3767CE;
+}
+
 .dot::before {
     content: " • ";
 }
